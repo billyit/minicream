@@ -2,14 +2,14 @@
 /* gallery global CSS document */
 
 .container {
-	width:800px
+	width:810px
 	max-width:90%
 }
 
 p.ex
 {
 	height:100px;
-	width:800px;
+	width:810px;
 	
 }
 
@@ -66,9 +66,9 @@ p.ex
 #bottom{
 	width: 800px;
 	text-align: center;
-	margin-bottom: 10px;
+	margin-bottom: 30px;
 }
 
 #bottom img{
-	margin-top: 10px;
+	margin-top: 25px;
 }
