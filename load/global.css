@@ -6,9 +6,11 @@
 	max-width:90%
 }
 
-a img {
-   border:0px; 
-}
+#link img a
+ {
+ border:0;
+ outline:none;
+ }
 
 p.ex
 {
