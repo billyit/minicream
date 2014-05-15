@@ -28,6 +28,9 @@ p.ex
 #myDiv {
 	border: none;
 	text-align: center;
+	  width: 810px ;
+  margin-left: auto ;
+  margin-right: auto ;
 }
 
 .fwdTitleTextSkin1{
