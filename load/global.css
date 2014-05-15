@@ -6,6 +6,12 @@
 	max-width:100%
 }
 
+#content {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
 #link img a
  {
  border:0;
