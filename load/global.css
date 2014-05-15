@@ -2,7 +2,7 @@
 /* gallery global CSS document */
 
 .container {
-	width:810px
+	width:750px
 	max-width:100%
 }
 
@@ -21,7 +21,7 @@
 p.ex
 {
 	height:100px;
-	width:810px;
+	width:750px;
 	
 }
 
@@ -77,7 +77,7 @@ p.ex
 }
 
 #bottom{
-	width: 810px;
+	width: 750px;
 	text-align: center;
 	margin-bottom: 10px;
 }
